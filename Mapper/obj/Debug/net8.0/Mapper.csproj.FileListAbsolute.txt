@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\bin\Debug\net8.0\Mapper.deps.json
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\bin\Debug\net8.0\Mapper.dll
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\bin\Debug\net8.0\Mapper.pdb
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\bin\Debug\net8.0\Entity.dll
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\bin\Debug\net8.0\Entity.pdb
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\Mapper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\Mapper.AssemblyInfo.cs
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\Mapper.csproj.Up2Date
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\Mapper.dll
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\refint\Mapper.dll
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\Mapper.pdb
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Mapper\obj\Debug\net8.0\ref\Mapper.dll

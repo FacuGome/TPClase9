@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\User\Desktop\UAI\2024\2do Cuatrimestre\Desarrollo y Arquitectura de Software (Programacion)\TP Clase 9\Entity\obj\Debug\net8.0\ref\Entity.dll
